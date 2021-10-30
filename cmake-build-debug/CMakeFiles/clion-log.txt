@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/liyp/CLionProjects/DataStructPractice
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/liyp/CLionProjects/DataStructPractice/cmake-build-debug

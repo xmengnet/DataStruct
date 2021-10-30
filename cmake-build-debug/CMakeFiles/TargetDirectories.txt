@@ -1,0 +1,11 @@
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/CMakeFiles/DataStruct.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/rebuild_cache.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/HeapSort.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/SelectionSort.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/edit_cache.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/MergeSort.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/InsertionSort.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/QuickSort.dir
+/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/CMakeFiles/BubblingSort.dir

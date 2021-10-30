@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStruct"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Sort\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStruct">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/DataStruct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStruct"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStruct/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/DataStruct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStruct/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeapSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/HeapSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 HeapSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeapSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/HeapSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 HeapSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/SelectionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 SelectionSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/SelectionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 SelectionSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 MergeSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 MergeSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/InsertionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 InsertionSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/InsertionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 InsertionSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 QuickSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 QuickSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubblingSort">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/BubblingSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 BubblingSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubblingSort/fast">
+				<Option output="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/BubblingSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 BubblingSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liyp/CLionProjects/DataStructPractice/cmake-build-debug/Sort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/BubblingSort.c">
+			<Option target="BubblingSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/HeapSort.cpp">
+			<Option target="HeapSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/InsertionSort.c">
+			<Option target="InsertionSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/MergeSort.cpp">
+			<Option target="MergeSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/QuickSort.cpp">
+			<Option target="QuickSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/SelectionSort.cpp">
+			<Option target="SelectionSort"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/main.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/liyp/CLionProjects/DataStructPractice/Sort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Sort\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
