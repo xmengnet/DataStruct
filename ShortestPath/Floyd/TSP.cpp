@@ -30,7 +30,7 @@ int main() {
             }
         }
     }
-    printf("边数为：%d,顶点数为：%d", m, n);
+    printf("边数为：%d,顶点数为：%d\n", m, n);
     //读入边
     printf("请输入每条边及其权值：\n");
     for (int i = 0; i < n; ++i) {

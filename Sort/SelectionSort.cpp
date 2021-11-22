@@ -18,33 +18,32 @@ void Swap(int *a, int *b) {
 
 void SelectionSort(int a[], int num) {
     // 第一种方式
-    // for (int i = num - 2; i >= 0; i--)
-    // {
-    //     int maxNum = a[i];
-    //     for (int j = 0; j < i; j++)
-    //     {
-    //         if (maxNum < a[j])
-    //         {
-    //             Swap(a + j, a + i);
-    //         }
-    //     }
-    // }
-    // 第二种方式
-    for (int i = 0; i < num - 2; i++) {
-        int flag = 0;
-        int MinNum = a[i];
-        for (int j = i + 1; j < num - 1; j++) {
-            if (MinNum > a[j]) {
-                MinNum = a[j];
-                flag = j;
+    for (int i = num - 2; i >= 0; i--) {
+        int maxNum = a[i];
+        for (int j = 0; j < i; j++) {
+            if (maxNum < a[j]) {
+                Swap(a + j, a + i);
             }
         }
-        int x = a[flag], y = a[i];
-        // printf("%d %d\t",a[flag],a[i]);
-        Swap(a + flag, a + i);
-        // printf("%d %d\t",a[flag],a[i]);
-        x = a[flag], y = a[i];
     }
+    // 第二种方式
+//    for (int i = 0; i < num - 2; i++) {
+//        int flag = 0;
+//        int MinNum = a[i];
+    //         {2, 3, 1, 7, 3, 5, 9, 20, 12, 9};
+
+//        for (int j = i + 1; j < num - 1; j++) {
+//            if (MinNum > a[j]) {
+//                MinNum = a[j];
+//                flag = j;
+//            }
+//        }
+////        int x = a[flag], y = a[i];
+//        // printf("%d %d\t",a[flag],a[i]);
+//        Swap(a + flag, a + i);
+//        // printf("%d %d\t",a[flag],a[i]);
+////        x = a[flag], y = a[i];
+//    }
 }
 
 int main(int argc, char const *argv[]) {

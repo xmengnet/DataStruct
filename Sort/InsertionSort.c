@@ -15,6 +15,10 @@ void InsertSort(int a[], int num) {
             a[j + 1] = a[j];
             a[j] = maxNum;
             j--;
+            for (int k = 0; k < num - 1; ++k) {
+                printf("%d\t", a[k]);
+            }
+            printf("\n");
         }
     }
 }
