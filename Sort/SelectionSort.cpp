@@ -3,9 +3,9 @@
 /*
 2021年5月29日星期六 下午9:21
 选择排序原理：
-    首先设置一个最大值（可以把最后一个数设置为最大值）
-    这个最大值从后往前循环
-    内嵌一个从前往后的循环，如果前面的数比设置的最大值要大就交换两个数
+    选择第一个元素为最大值，从第二个开始查找，在之后的队列中选择关键字最小的记录，
+    按顺序排在已排序的记录序列之后
+
     时间复杂度O(n^2)
 */
 void Swap(int *a, int *b) {
@@ -18,10 +18,11 @@ void Swap(int *a, int *b) {
 
 void SelectionSort(int a[], int num) {
     // 第一种方式
-    for (int i = num - 2; i >= 0; i--) {
-        int maxNum = a[i];
-        for (int j = 0; j < i; j++) {
-            if (maxNum < a[j]) {
+    for (int i = 0; i < num; ++i) {
+        int k = i;
+        int minNum = a[i];
+        for (int j = i + 1; j < num; j++) {
+            if (minNum > a[j]) {
                 Swap(a + j, a + i);
             }
         }
